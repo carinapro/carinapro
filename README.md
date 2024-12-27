@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋 I'm Carina Leite
+### 🎯 Junior Software Engineer
 
-<!--
-**carinapro/carinapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
 
-Here are some ideas to get you started:
+- 😄 28 years old
+- 🇵🇹 From Portugal
+- 💻 Passionate about coding
+- 🏍️ Passionate about adrenaline, motorcycles
+- 👓 Former optometry professional, now transitioning into the tech world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔽
+
+**Contact Me:**
+
+- 📧 Email: carina.isabel.l@hotmail.com
+- 💼 LinkedIn: [Carina Leite](https://www.linkedin.com/in/carina-isabel-leite/)
+
+**💻 Languages & Tools**
+
+- Java ☕️
+- JavaScript ⚡
+- HTML & CSS 🌐
+- SQL 📊
+- and much more!
+
+I am always seeking new challenges and eager to learn and master new programming languages. 💪
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carinapro&show_icons=true&count_private=true&hide=prs&hide_title=true)
+
